@@ -2,8 +2,7 @@
 
 Landing page desarrollada para el restaurante de comidas rápidas **Donde Jean K**, ubicado en Floridablanca, Santander.
 
-👉 🌐 **Ver sitio en vivo:**  
-https://barliz4.github.io/JEANK---Restaurante/
+🔗 **Ver Demo en Vivo:** [Donde JEAN K Web](https://barliz4.github.io/JEANK---Restaurante/) 
 
 ---
 
