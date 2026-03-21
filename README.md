@@ -1,4 +1,4 @@
-# 🍔 Donde Jean K - Landing Page
+# 🍔 Donde Jean K - Landing Page 
 
 Landing page desarrollada para el restaurante de comidas rápidas **Donde Jean K**, ubicado en Floridablanca, Santander.
 
