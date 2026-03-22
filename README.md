@@ -4,7 +4,7 @@ Landing page desarrollada para el restaurante de comidas rápidas **Donde Jean K
 
 🔗 **Ver Demo en Vivo:** [Donde JEAN K Web](https://barliz4.github.io/JEANK---Restaurante/) 
 
----
+--- 
 
 ## 📌 Sobre el restaurante
 
