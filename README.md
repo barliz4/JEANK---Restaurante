@@ -7,7 +7,7 @@ Landing page desarrollada para el restaurante de comidas rápidas **Donde Jean K
 --- 
 
 ## 📌 Sobre el restaurante
-
+ 
 **Donde Jean K** es un negocio de comidas rápidas enfocado en ofrecer productos como hamburguesas, perros calientes y papas, con un sabor único y atención cercana al cliente.
 
 Esta página web fue creada para mejorar su presencia digital y facilitar que nuevos clientes conozcan el menú y encuentren el local fácilmente.
