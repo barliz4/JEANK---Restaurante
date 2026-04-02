@@ -12,7 +12,7 @@ Landing page desarrollada para el restaurante de comidas rápidas **Donde Jean K
 
 Esta página web fue creada para mejorar su presencia digital y facilitar que nuevos clientes conozcan el menú y encuentren el local fácilmente.
 
----
+--- 
 
 ## 🚀 Objetivo del proyecto
 
